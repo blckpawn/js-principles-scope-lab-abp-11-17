@@ -20,3 +20,8 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'joe';
 }
 ;
+
+const favoriteCustomer = 'steve';
+attemptTwoFavoriteCustomers(){
+  
+};
