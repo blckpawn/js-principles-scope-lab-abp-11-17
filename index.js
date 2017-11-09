@@ -1,9 +1,3 @@
 // Write your solution in this file!
-var customerName = "bob";
+var customerName.toUpperCase = "bob";
 
-function upperCaseCustomerName(){
-  customerName.toUpperCase();
-
-};
-
-upperCaseCustomerName();
